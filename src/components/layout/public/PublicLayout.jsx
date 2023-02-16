@@ -8,6 +8,7 @@ export const PublicLayout = () => {
         <Header />
 
         <section className=''>
+            <h1>Contenido</h1>
             <Outlet />
         </section>
     </>
